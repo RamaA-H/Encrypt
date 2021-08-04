@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="100dp"
+    android:viewportWidth="50"
+    android:viewportHeight="100">
+
+    <path
+        android:name="dark_triangle"
+        android:fillColor="#FFFFFF"
+        android:pathData="M 100,0 L 10,100 100,100 z" />
+
+    <path
+        android:name="light_triangle"
+        android:fillColor="#29304d"
+        android:pathData="M 0,0 L 100,0 0,100 z" />
+
+    <path
+        android:name="light_triangle"
+        android:fillColor="#29304d"
+        android:pathData="M 100,0 L 10,100 100,100 z" />
+    <path
+        android:name="teal"
+        android:fillColor="#FF03DAC5"
+        android:pathData="M 50,30 L 100,10 0,100 z" />
+
+</vector>

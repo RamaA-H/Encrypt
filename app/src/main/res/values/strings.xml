@@ -1,0 +1,12 @@
+<resources>
+    //title
+    <string name="app_name">En &amp; DecryptStr</string>
+
+    //activtiy_main
+    <string name="Enkripsi">Enkripsi :</string>
+    <string name="Dekripsi">Dekripsi :</string>
+    <string name="MasukTeks">Masukan Teks</string>
+
+    //toolbar_main
+    <string name="titletoolbar">Enkripsi - Dekripsi</string>
+</resources>
